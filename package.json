@@ -1,0 +1,12 @@
+{
+  "name": "project-builder",
+  "version": "1.0.0",
+  "repository": "https://github.com/crypto-cmd/project-builder.git",
+  "scripts": {
+    "dev": "yarn run dev:backend && yarn run dev:frontend",
+    "dev:frontend": "cd frontend && yarn dev",
+    "dev:backend": "echo 'No backend yet'"
+  },
+  "author": "Orville Daley <orvilledaley2004@gmail.com>",
+  "license": "MIT"
+}
