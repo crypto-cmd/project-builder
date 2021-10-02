@@ -8,5 +8,9 @@
     "dev:backend": "echo 'No backend yet'"
   },
   "author": "Orville Daley <orvilledaley2004@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^17.0.26",
+    "typescript": "^4.4.3"
+  }
 }
